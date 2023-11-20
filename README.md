@@ -3,7 +3,11 @@
 A simple console-based Tic Tac Toe game implemented in Java as a learning exercise.
 
 
-![ticTacToe](https://github.com/GiIIy/TicTacToe/assets/74792652/64d25177-594b-45db-befa-0f7b599d5182)
+![ticTacToe](
+
+https://github.com/GiIIy/TicTacToe/assets/74792652/3ed0fc4d-c30c-498a-98b2-c332c590182b
+
+)
 
 
 
