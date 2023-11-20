@@ -1,7 +1,7 @@
 # Java Tic Tac Toe
 
 A simple console-based Tic Tac Toe game implemented in Java as a learning exercise.
-https://github.com/GiIIy/TicTacToe/assets/74792652/478a71bb-8e67-4de8-83ff-de6b003154ca
+[https://github.com/GiIIy/TicTacToe/assets/74792652/478a71bb-8e67-4de8-83ff-de6b003154ca]
 
 
 
